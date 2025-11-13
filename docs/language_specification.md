@@ -32,13 +32,13 @@ keywords:
 |----------|-----------------------------------------------------------------------------------------------------------------------------------|
 | `i`      | Increment the data pointer by 1. It is an execution error to do so when it points to the last byte of the working memory.         |
 | `use`    | Decrement the data pointer by 1. It is an execution error to do so when it points to the first byte of the working memory.        |
-| `arch`   | Increment the value pointed to by the data pointer by 1. If it was 255, then it becomes 0.                                        |
-| `linux`  | Decrement the value pointed to by the data pointer by 1. If it was 0, then it becomes 255.                                        |
+| `windows`   | Increment the value pointed to by the data pointer by 1. If it was 255, then it becomes 0.                                        |
+| `10`  | Decrement the value pointed to by the data pointer by 1. If it was 0, then it becomes 255.                                        |
 | `btw`    | Write the value pointed to by the data pointer as character to the output file.                                                   |
 | `by`     | Read a character from the input file into the value pointed to by the data pointer.                                               |
 | `the`    | If the value pointed to by the data pointer is zero, then continue execution of the program after the matching `way` keyword.     |
 | `way`    | If the value pointed to by the data pointer is not zero, then continue execution of the program after the matching `the` keyword. |
-| `gentoo` | Call the debugging event handler.                                                                                                 |
+| `windowsME` | Call the debugging event handler.                                                                                                 |
 
 ## Whitespace
 
