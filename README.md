@@ -1,5 +1,4 @@
-
--# this is just for the meme, i didn't even test it but i mean it maybe works
+# this is just for the meme, i didn't even test it but i mean it maybe works
 # I use Windows btw
 
 > "I use Windows btw" but it's a Turing-complete programming language.
