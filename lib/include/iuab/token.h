@@ -19,10 +19,10 @@ enum iuab_token_type {
     IUAB_TOKEN_I,
     // The `use` keyword.
     IUAB_TOKEN_USE,
-    // The `arch` keyword.
-    IUAB_TOKEN_ARCH,
-    // The `linux` keyword.
-    IUAB_TOKEN_LINUX,
+    // The `windows` keyword.
+    IUAB_TOKEN_WINDOWS,
+    // The `10` keyword.
+    IUAB_TOKEN_TEN,
     // The `btw` keyword.
     IUAB_TOKEN_BTW,
     // The `by` keyword.
@@ -31,8 +31,8 @@ enum iuab_token_type {
     IUAB_TOKEN_THE,
     // The `way` keyword.
     IUAB_TOKEN_WAY,
-    // The `gentoo` keyword.
-    IUAB_TOKEN_GENTOO,
+    // The `windowsME` keyword.
+    IUAB_TOKEN_WINDOWSME,
 
     // Invalid token type.
     IUAB_TOKEN_INVALID,
