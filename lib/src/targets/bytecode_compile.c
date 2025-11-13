@@ -155,11 +155,11 @@ iuab_bytecode_emit(struct iuab_bytecode_compiler *compiler) {
     switch (compiler->token.type) {
     case IUAB_TOKEN_I:
     case IUAB_TOKEN_USE: return iuab_bytecode_emit_additive_p(compiler);
-    case IUAB_TOKEN_ARCH:
-    case IUAB_TOKEN_LINUX: return iuab_bytecode_emit_additive_v(compiler);
+    case IUAB_TOKEN_WINDOWS:
+    case IUAB_TOKEN_TEN: return iuab_bytecode_emit_additive_v(compiler);
     case IUAB_TOKEN_BTW:
     case IUAB_TOKEN_BY:
-    case IUAB_TOKEN_GENTOO:
+    case IUAB_TOKEN_WINDOWSME:
         error = iuab_bytecode_emit_no_operand(compiler);
         break;
     case IUAB_TOKEN_THE: error = iuab_bytecode_begin_loop(compiler); break;
