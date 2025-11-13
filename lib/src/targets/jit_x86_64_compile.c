@@ -549,11 +549,11 @@ iuab_jit_x86_64_emit_additive_v(struct iuab_jit_x86_64_compiler *compiler) {
     uint8_t modrm_reg;
 
     switch (token_type) {
-    case IUAB_TOKEN_ARCH:
+    case IUAB_TOKEN_WINDOWS:
         op = IUAB_OP_ADD_RM8_IMM8;
         modrm_reg = IUAB_MODRM_REG_OP_ADD_RM_IMM;
         break;
-    case IUAB_TOKEN_LINUX:
+    case IUAB_TOKEN_TEN:
         op = IUAB_OP_SUB_RM8_IMM8;
         modrm_reg = IUAB_MODRM_REG_OP_SUB_RM_IMM;
         break;
@@ -751,13 +751,13 @@ iuab_jit_x86_64_emit(struct iuab_jit_x86_64_compiler *compiler) {
     switch (compiler->token.type) {
     case IUAB_TOKEN_I:
     case IUAB_TOKEN_USE: return iuab_jit_x86_64_emit_additive_p(compiler);
-    case IUAB_TOKEN_ARCH:
-    case IUAB_TOKEN_LINUX: return iuab_jit_x86_64_emit_additive_v(compiler);
+    case IUAB_TOKEN_WINDOWS:
+    case IUAB_TOKEN_TEN: return iuab_jit_x86_64_emit_additive_v(compiler);
     case IUAB_TOKEN_BTW: error = iuab_jit_x86_64_emit_write(compiler); break;
     case IUAB_TOKEN_BY: error = iuab_jit_x86_64_emit_read(compiler); break;
     case IUAB_TOKEN_THE: error = iuab_jit_x86_64_begin_loop(compiler); break;
     case IUAB_TOKEN_WAY: error = iuab_jit_x86_64_end_loop(compiler); break;
-    case IUAB_TOKEN_GENTOO: error = iuab_jit_x86_64_emit_debug(compiler); break;
+    case IUAB_TOKEN_WINDOWSME: error = iuab_jit_x86_64_emit_debug(compiler); break;
     default: return IUAB_ERROR_COMPILER_INVALID_TOKEN;
     }
 
