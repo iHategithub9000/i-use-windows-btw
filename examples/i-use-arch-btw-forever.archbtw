@@ -1,110 +1,110 @@
-; Example program that prints "I use Arch btw" forever.
+; Example program that prints "I use windows btw" forever.
 
-; Write string "I use Arch btw\n" at start of working memory.
+; Write string "I use windows btw\n" at start of working memory.
 
 ; 'I'
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch i
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows i
 ; ' '
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
 i
 ; 'u'
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch i
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows i
 ; 's'
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch i
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows i
 ; 'e'
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch i
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows i
 ; ' '
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
 i
 ; 'A'
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch i
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows i
 ; 'r'
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch i
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows i
 ; 'c'
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch i
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows i
 ; 'h'
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch i
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows i
 ; ' '
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
 i
 ; 'b'
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch i
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows i
 ; 't'
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch i
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows i
 ; 'w'
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch arch
-arch arch arch arch arch arch arch i
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+windows windows windows windows windows windows windows i
 ; '\n'
-arch arch arch arch arch arch arch arch arch arch i
+windows windows windows windows windows windows windows windows windows windows i
 
 ; First byte after string is a null byte that marks the end of the string, but
 ; we temporarily turn it into a non-null byte before each iteration of the
@@ -113,12 +113,12 @@ arch arch arch arch arch arch arch arch arch arch i
 
 ; The string is terminated by a null byte that we will temporarily turn into a
 ; non-null byte to trigger each iteration of the loop.
-arch
+windows
 
 ; Print loop.
 the
     ; Turn byte after string back into null byte to mark end of string.
-    linux
+    10
     ; Navigate data pointer back to start of string.
     use use use use use use use use use use use use use use use
 
@@ -129,5 +129,5 @@ the
     way
 
     ; Turn byte after string into non-null byte to loop again.
-    arch
+    windows
 way
