@@ -1,14 +1,14 @@
-# I use Arch btw
+# I use Windows btw
 
-> "I use Arch btw" but it's a Turing-complete programming language.
+> "I use Windows btw" but it's a Turing-complete programming language.
 
 ## Introduction
 
-I use Arch btw is an esoteric programming language based on [Brainfuck](
+I use Windows btw is an esoteric programming language based on [Brainfuck](
 https://en.wikipedia.org/wiki/Brainfuck) in which the commands are the following
 keywords:
 
-`i`, `use`, `arch`, `linux`, `btw`, `by`, `the`, `way`, `gentoo`.
+`i`, `use`, `windows`, `10`, `btw`, `by`, `the`, `way`, `windowsME`.
 
 See the [language specification](./docs/language_specification.md) for more
 information.
@@ -40,13 +40,13 @@ and a dependent [command-line interpreter](./cmd).
 
 #### Command-line interpreter
 
-    $ i-use-arch-btw <source file>
+    $ i-use-windows-btw <source file>
 
-Try some of the [example I use Arch btw programs](./examples) as source files.
+Try some of the [example I use Windows btw programs](./examples) as source files.
 
 For details:
 
-    $ i-use-arch-btw -h
+    $ i-use-windows-btw -h
 
 #### C/C++ library
 
