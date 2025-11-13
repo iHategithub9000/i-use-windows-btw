@@ -79,8 +79,7 @@ iuab_lexer_next_token_type(struct iuab_lexer *lexer, int ch) {
     switch (ch) {
     case 'i': return IUAB_LEXER_MATCH_TOKEN(lexer, "", IUAB_TOKEN_I);
     case 'u': return IUAB_LEXER_MATCH_TOKEN(lexer, "se", IUAB_TOKEN_USE);
-    case 'a': return IUAB_LEXER_MATCH_TOKEN(lexer, "rch", IUAB_TOKEN_ARCH);
-    case 'l': return IUAB_LEXER_MATCH_TOKEN(lexer, "inux", IUAB_TOKEN_LINUX);
+    case '1': return IUAB_LEXER_MATCH_TOKEN(lexer, "0", IUAB_TOKEN_TEN);
     case 'b':
         switch (iuab_lexer_next_char(lexer)) {
         case 't': return IUAB_LEXER_MATCH_TOKEN(lexer, "w", IUAB_TOKEN_BTW);
@@ -88,8 +87,19 @@ iuab_lexer_next_token_type(struct iuab_lexer *lexer, int ch) {
         default: return IUAB_TOKEN_INVALID;
         }
     case 't': return IUAB_LEXER_MATCH_TOKEN(lexer, "he", IUAB_TOKEN_THE);
-    case 'w': return IUAB_LEXER_MATCH_TOKEN(lexer, "ay", IUAB_TOKEN_WAY);
-    case 'g': return IUAB_LEXER_MATCH_TOKEN(lexer, "entoo", IUAB_TOKEN_GENTOO);
+    case 'w': {
+        char next = iuab_lexer_next_char(lexer);
+        if (next == 'i') {
+            return IUAB_LEXER_MATCH_TOKEN(lexer, "ndows", IUAB_TOKEN_WINDOWS);
+        } else if (next == 'a') {
+            return IUAB_LEXER_MATCH_TOKEN(lexer, "y", IUAB_TOKEN_WAY);
+        } else if (next == 'i') {
+            return IUAB_LEXER_MATCH_TOKEN(lexer, "ndowsME", IUAB_TOKEN_WINDOWSME);
+        } else {
+            return IUAB_TOKEN_INVALID;
+        }
+    }
+
     default: return IUAB_TOKEN_INVALID;
     }
 }
